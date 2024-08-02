@@ -32,3 +32,11 @@ background-repeat: no-repeat;
 
 
 }
+.imgs{
+
+    height:334px;
+    width: 596px;
+    background-image: url("Screenshot_20240802-060749.jpg");
+    background-repeat: no-repeat;
+
+}
